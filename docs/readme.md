@@ -35,6 +35,7 @@
 1. Взять данные с https://obrnadzor.gov.ru/ (Реестр организаций, осуществляющих образовательную деятельность по имеющим государственную аккредитацию образовательным программам) и подогнать их под структуру: НАЗВАНИЕ, РЕГИОН, ССЫЛКА НА ОФИЦИАЛЬНЫЙ САЙТ, **???**
 
 - https://obrnadzor.gov.ru/otkrytoe-pravitelstvo/opendata/7701537808-raoo/
+- https://rsr-online.ru/catalog/
 - https://vuzopedia.ru/
 - https://vuzoteka.ru/
 - https://www.ucheba.ru/<br/>
