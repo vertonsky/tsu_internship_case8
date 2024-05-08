@@ -10,7 +10,6 @@ headers = {
 
 # for debug
 uni_names = []
-#
 
 for page in range(1, 2): #100
   sleep(random.uniform(5.0, 10.0))
