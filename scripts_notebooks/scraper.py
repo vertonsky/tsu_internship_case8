@@ -1,30 +1,21 @@
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-from time import sleep
-import random
+from duckduckgo_search import DDGS
+import time
 
-headers = {
-    'User-Agent':
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'}
+data = pd.read_csv('./data/1.0_uni_data_cleared.csv')
+sites = data['WebSite']
+data['PathToSoft'] = ''
 
-# for debug
-uni_names = []
+for i in data.index:
+  site = data['WebSite'].iloc[i]
+  print(i, site)
+  results = DDGS().text("Список программного обеспечения site:" + site, region='ru-ru', max_results=1)
+  if results: 
+    data['PathToSoft'].iloc[i] = results[0]['href']
+    print(results[0]['href'])
 
-for page in range(1, 2): #100
-  sleep(random.uniform(5.0, 10.0))
+  time.sleep(5)
 
-  url = f"https://vuzopedia.ru/vuz?page={page}"
 
-  response = requests.get(url, headers=headers)
-  soup = BeautifulSoup(response.text, 'lxml')
-  data = soup.find_all('div', class_='vuzesfullnorm')
 
-  for i in data:
-    uni_name = i.find('div', class_='itemVuzTitle').text.strip().replace('\n', '')
-    uni_names.append(uni_name)
-
-    
-
-df = pd.DataFrame(uni_names)
-df.to_csv(r'data\example_all_universities.csv', encoding='utf-8')
+data.to_csv('./data/1.2_uni_data_w_soft.csv', index=False)
