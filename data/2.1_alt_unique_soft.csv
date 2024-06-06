@@ -1,0 +1,192 @@
+,microsoft-office,adobe-acrobat,abbyy-finereader,autodesk-autocad,microsoft-visual-studio,ibm-spss-statistics,microsoft-project,graphpad-prism,adobe-photoshop,cisco-packet-tracer,matlab,erwin-data-modeler,i-deas-nx-series,adobe-indesign,axima,qgis,apache-netbeans,microsoft-visio,ibm-infosphere-datastage,email-clients
+0,,,,,,,,,,,"cauchy-dev - library for transforming Matlab/Octave files to C++
+cauchy-tools - library for transforming Matlab/Octave files to C++ - toold
+coinor-libipopt-dev - Interior-Point Optimizer - header files
+coinor-libipopt-doc - Interior-Point Optimizer - documentation
+coinor-libipopt1v5 - Interior-Point Optimizer, for large-scale nonlinear optimization
+coinor-libipopt1v5-dbg - Interior-Point Optimizer - debugging symbols
+fizsh - Friendly Interactive ZSHell
+fuzzylite - fuzzy logic control binary
+genius - advanced general purpose calculator program (CLI frontend)
+genius-common - advanced general purpose calculator program (common files)
+genius-dev - advanced general purpose calculator program (development files)
+gnome-genius - advanced general purpose calculator program (GNOME frontend)
+golang-github-kelvins-sunrisesunset-dev - Go package that provides the sunrise and sunset equation. (library)
+inspectrum - tool for visualising captured radio signals
+ipython3 - Enhanced interactive Python 3 shell
+jupyter-qtconsole - Jupyter - Qt console (binaries)
+lfortran - Modern interactive LLVM-based Fortran compiler
+libcauchy0.0v5 - library for transforming Matlab/Octave files to C++
+libcauchyxunit0.0v5 - library for transforming Matlab/Octave files to C++
+libejml-java - Efficient Java Matrix Library
+libfuzzylite-dev - fuzzy logic control development headers
+libfuzzylite6.0 - fuzzy logic control shared library
+libitpp-dev - C++ library of signal processing and communication routines: Headers
+libitpp-doc - C++ library of signal processing and communication routines: Documentation
+libitpp8v5 - C++ library of signal processing and communication routines
+libitpp8v5-dbg - C++ library of signal processing and communication routines: Debug symbols
+liblfortran-dev - flang library - Development package.
+liblfortran-runtime0 - Runtime libraries for the lfortran compiler
+libm2mml0.0v5 - library for transforming Matlab/Octave files to C++
+libmatio-dev - MATLAB MAT File I/O Library - development files
+libmatio-doc - MATLAB MAT File I/O Library - documentation files
+libmatio11 - MATLAB MAT File I/O Library - shared library
+libopencv-contrib406t64 - computer vision contrlib library
+libopengv-dev - Computer vision methods for solving geometric vision problems.
+libopengv-doc - Computer vision methods for solving geometric vision problems.
+libopengv1t64 - Computer vision methods for solving geometric vision problems.
+libpdl-io-matlab-perl - PDL support to read/write Matlab format data files
+libscythestat-dev - header files for Scythe statistics library
+libsox-fmt-base - Minimal set of SoX format libraries
+libtrilinos-galeri-13.2 - generation of distributed linear systems - runtime files
+libtrilinos-galeri-dev - generation of distributed linear systems - development files
+looktxt - Convert free format text file into scientific data formats
+matio-tools - MATLAB MAT File I/O Library - command-line tools
+matlab-support-dev - helpers for packages building MATLAB toolboxes
+matlab2tikz - converter of Octave plots to TikZ figures (for integration into LaTeX)
+mwrap - Octave/MATLAB mex generator
+octave - GNU Octave language for numerical computations
+octave-arduino - Octave Arduino Toolkit
+octave-common - architecture-independent files for octave
+octave-dev - development files for the GNU Octave language
+octave-dicom - manipulate DICOM files in Octave
+octave-doc - documentation of the GNU Octave language
+octave-fuzzy-logic-toolkit - fuzzy logic toolkit for Octave
+octave-jsonlab - native JSON/UBJSON/MassagePack encoder/decoder for Octave
+octave-ltfat - Large Time/Frequency Analysis Toolbox
+octave-ltfat-common - Large Time/Frequency Analysis Toolbox (arch-indep files)
+octave-netcdf - Matlab compatible NetCDF interface for Octave
+octave-phclab - general-purpose solver for polynomial systems (Octave)
+octave-psychtoolbox-3 - toolbox for vision research -- Octave bindings
+octave-tsa - time series analysis in Octave
+octave-zmat - in-memory data compression for Octave
+pcb-rnd - Standard installation of pcb-rnd
+pd-iemmatrix - Pd-objects for simple matrix operations
+pdl - perl data language: Perl extensions for numerics
+psychtoolbox-3-common - toolbox for vision research -- arch/interpreter independent part
+psychtoolbox-3-dbg - toolbox for vision research -- debug symbols for binaries
+psychtoolbox-3-lib - toolbox for vision research -- arch-specific parts
+python-hdf5storage-doc - documentation for hdf5storage
+python-ipython-doc - Enhanced interactive Python shell (documentation)
+python-matplotlib-data - Python based plotting system (data package)
+python-qtconsole-doc - Jupyter - Qt console (documentation)
+python3-fastcluster - Fast hierarchical clustering routines for Python 3
+python3-hdf5storage - high-level utilities to read from and write to HDF5 (Python 3)
+python3-ipython - Enhanced interactive Python shell (Python 3 version)
+python3-ltfatpy - Large Time-Frequency Toolbox (LTFAT) in Python
+python3-matplotlib - Python based plotting system in a style similar to Matlab (Python 3)
+python3-matplotlib-venn - Python 3 plotting area-proportional two- and three-way Venn diagrams
+python3-neo - Python IO library for electrophysiological data formats
+python3-numpy-groupies - performs operations on/with subsets of n-dim arrays
+python3-opengv - Computer vision methods for solving geometric vision problems.
+python3-pymap3d - pure-Python 3D coordinate conversions for geospace
+python3-qtconsole - Jupyter - Qt console (Python 3)
+r-cran-apcluster - Affinity Propagation Clustering
+r-cran-geometry - GNU R mesh generation and surface tesselation
+r-cran-matlab - MATLAB emulation package
+r-cran-pracma - practical numerical math functions for GNU R
+r-cran-rcarb - GNU R dose rate modelling of carbonate-rich samples
+r-cran-rspectra - GNU R solvers for large-scale eigenvalue and SVD problems
+r-cran-smoother - GNU R functions relating to the smoothing of numerical data
+sbmltoolbox - libsbml toolbox for octave and matlab
+science-economics - Debian Science Economics packages
+science-numericalcomputation - Debian Science Numerical Computation packages
+sdpam - Matlab/Octave interface of SDPA
+src2tex - converter from source program files to TeX format files
+texify - Beautify source code for use with LaTeX
+texlive-pictures - TeX Live: Graphics, pictures, diagrams
+texlive-pstricks - TeX Live: PSTricks
+texlive-science - TeX Live: Mathematics, natural sciences, computer science packages
+vim-syntastic - Syntax checking hacks for vim
+yorick-ml4 - Matlab file format support for the Yorick language
+dynare-matlab - MATLAB support for Dynare
+matlab-gdf - IO library for the GDF -- Matlab interface
+matlab-jsonlab - native JSON/UBJSON/MassagePack encoder/decoder for MATLAB
+matlab-support - distro integration for local MATLAB installations
+matlab-zmat - in-memory data compression for MATLAB
+",,,,"lp-solve - Solve (mixed integer) linear programming problems
+lp-solve-doc - Solve (mixed integer) linear programming problems - documentation
+zerofree - zero free blocks from ext2, ext3 and ext4 file-systems
+cantor - interface for mathematical applications
+cantor-backend-maxima - Maxima backend for Cantor
+cliquer - clique searching program
+clisp - GNU CLISP, a Common Lisp implementation
+e-mem - Efficient computation of Maximal Exact Matches for very large genomes
+frobby - Computations with monomial ideals
+garmin-forerunner-tools - retrieve data from Garmin Forerunner/Edge GPS devices
+gfan - program for computing with Groebner fans
+kmplot - mathematical function plotter for KDE
+libboost-mpi-dev - C++ interface to the Message Passing Interface (MPI) (default version)
+libboost-mpi-python-dev - C++ interface to the Message Passing Interface (MPI), Python Bindings (default version)
+libboost-mpi-python1.74-dev - C++ interface to the Message Passing Interface (MPI), Python Bindings
+libboost-mpi-python1.74.0 - C++ interface to the Message Passing Interface (MPI), Python Bindings
+libboost-mpi-python1.83-dev - C++ interface to the Message Passing Interface (MPI), Python Bindings
+libboost-mpi-python1.83.0 - C++ interface to the Message Passing Interface (MPI), Python Bindings
+libboost-mpi1.74-dev - C++ interface to the Message Passing Interface (MPI)
+libboost-mpi1.74.0 - C++ interface to the Message Passing Interface (MPI)
+libboost-mpi1.83-dev - C++ interface to the Message Passing Interface (MPI)
+libboost-mpi1.83.0 - C++ interface to the Message Passing Interface (MPI)
+libbtf2 - permutation to block triangular form library for sparse matrices
+libcdk-java - Chemistry Development Kit (CDK) Java libraries
+libcgi-ajax-perl - Perl-specific system for writing Asynchronous web applications
+libcliquer1 - clique searching library
+libfrobby-dev - Computations with monomial ideals (development tools)
+libfrobby-doc - Computations with monomial ideals (library documentation)
+libfrobby0 - Computations with monomial ideals (shared library)
+libg2o-dev - C++ framework for optimizing graph-based nonlinear error functions
+libg2o-doc - C++ framework for optimizing graph-based nonlinear error functions
+libg2o0t64 - C++ framework for optimizing graph-based nonlinear error functions
+liblpsolve55-dev - Solve (mixed integer) linear programming problems - library
+libmath-symbolic-perl - module for performing symbolic calculations
+libpcp-logsummary-perl - Performance Co-Pilot historical log summary module
+lyx - document processor
+maxima - Computer algebra system -- base system
+maxima-doc - Computer algebra system -- documentation
+maxima-emacs - Computer algebra system -- emacs interface
+maxima-share - Computer algebra system -- extra code
+maxima-src - Computer algebra system -- source code
+maxima-test - Computer algebra system -- test suite
+python3-pytest-bdd - BDD plugin for py.test
+r-cran-evd - GNU R Functions for extreme value distributions
+r-cran-maxstat - GNU R maximally selected rank statistics
+r-cran-minerva - Maximal Information-Based Nonparametric Exploration
+ruby-trollop - command-line argument processing library
+sim4 - tool for aligning cDNA and genomic DNA
+src2tex - converter from source program files to TeX format files
+tuned-utils-systemtap - disk and net statistic monitoring systemtap scripts
+wxmaxima - GUI for the computer algebra system Maxima
+xmaxima - Computer algebra system -- x interface
+","libqgis-3d3.34.4t64 - QGIS - shared 3d library
+libqgis-analysis3.34.4t64 - QGIS - shared analysis library
+libqgis-app3.34.4t64 - QGIS - shared app library
+libqgis-core3.34.4t64 - QGIS - shared core library
+libqgis-customwidgets - QGIS custom widgets for Qt Designer
+libqgis-dev - QGIS - development files
+libqgis-gui3.34.4t64 - QGIS - shared gui library
+libqgis-native3.34.4t64 - QGIS - shared native gui library
+libqgis-server3.34.4t64 - QGIS - shared server library
+libqgisgrass8-3.34.4t64 - QGIS - shared grass library
+libqgispython3.34.4t64 - QGIS - shared Python library
+python3-qgis - Python bindings to QGIS
+python3-qgis-common - Python bindings to QGIS - architecture-independent files
+qgis - Geographic Information System (GIS)
+qgis-api-doc - QGIS API documentation
+qgis-common - QGIS - architecture-independent data
+qgis-plugin-grass - GRASS plugin for QGIS
+qgis-plugin-grass-common - GRASS plugin for QGIS - architecture-independent data
+qgis-provider-grass - GRASS provider for QGIS
+qgis-providers - collection of data providers to QGIS
+qgis-providers-common - collection of data providers to QGIS - architecture-independent files
+qgis-server - QGIS server providing various OGC services
+qgis-server-bin - QGIS server providing various OGC services (executables)
+qgis-server-common - QGIS server providing various OGC services (data)
+qgis-server-dummy - QGIS server providing various OGC services (dummy)
+qgis-server-landingpage - QGIS server providing various OGC services (landing page)
+qgis-server-wcs - QGIS server providing various OGC services (WCS)
+qgis-server-wfs - QGIS server providing various OGC services (WFS)
+qgis-server-wfs3 - QGIS server providing various OGC services (WFS 3)
+qgis-server-wms - QGIS server providing various OGC services (WMS)
+qgis-server-wmts - QGIS server providing various OGC services (WMTS)
+qgis-sip - SIP specification files for QGIS
+qgis3-survex-import - QGIS3 plugin to read survex 3d files, for cave surveying
+",,,,
